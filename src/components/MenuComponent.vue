@@ -8,6 +8,12 @@
                 <router-link to="/doble/77">Doble 77</router-link> | 
             </li>
             <li>
+                <router-link to="/doble/7">Doble 7</router-link> | 
+            </li>
+            <li>
+                <router-link to="/doble/66">Doble 66</router-link> | 
+            </li>            
+            <li>
                 <router-link to="/doble"> Doble sin número</router-link> | 
             </li>
             <li>
